@@ -1,0 +1,8 @@
+O **SISPMPI** é composto por quatro módulos, cada um desempenhando determinada função em relação aos planos de integridade, conforme o seguinte quadro:
+
+Módulo | Descrição | Principais usuários
+:--- | ---: | :---:
+Módulo 1 | Formulação do Plano de Integridade e do Plano de Ação | Grupo de Trabalho
+Módulo 2 | Execução das ações do Plano de Integridade | Responsáveis pela execução das ações
+Módulo 3 | Acompanhamento e monitoramento do Plano de Integridade | Comitê de Monitoramento
+Módulo 4 | Avaliação e auditoria do Plano de Integridade | Auditores internos
