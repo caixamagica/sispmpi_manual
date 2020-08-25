@@ -2,26 +2,26 @@
 
 ## Sumário
 
-### **Introdução**
+### **1. Introdução**
 
-[O que é e para que serve o SISPMPI?](https://github.com/thomazanderson/sispmpi_manual/blob/master/Introducao.md)
+[1.1. O que é e para que serve o SISPMPI?](https://github.com/thomazanderson/sispmpi_manual/blob/master/Introducao.md)
 
-[Descrição dos Módulos do SISPMPI](https://github.com/thomazanderson/sispmpi_manual/blob/master/modulos.md)
+[1.2. Descrição dos Módulos do SISPMPI](https://github.com/thomazanderson/sispmpi_manual/blob/master/modulos.md)
 
-### **Preparando o SISPMPI para o órgão/entidade (exclusivo para Controladores Setoriais e Seccionais)** ###
+### **2. Preparando o SISPMPI para o órgão/entidade (exclusivo para Controladores Setoriais e Seccionais)** ###
 
-[Cadastro de Unidades Administrativas]
+[2.1. Cadastro de Unidades Administrativas]
 
-[Cadastro de Usuários](https://github.com/thomazanderson/sispmpi_manual/blob/master/cadastros.md)
+[2.2. Cadastro de Usuários](https://github.com/thomazanderson/sispmpi_manual/blob/master/cadastros.md)
 
-### **Acesso ao SISPMPI** ###
+### **3. Acesso ao SISPMPI** ###
 
-[Acesso ao SISPMPI (login)](https://github.com/thomazanderson/sispmpi_manual/blob/master/login.md)
+[3.1. Acesso ao SISPMPI (login)](https://github.com/thomazanderson/sispmpi_manual/blob/master/login.md)
 
-[Senha esquecida]
+[3.3. Senha esquecida]
 
-[Tela inicial do SISPMPI]
+[3.4. Tela inicial do SISPMPI]
 
-[Alteração dos dados cadastrais]
+[3.5. Alteração dos dados cadastrais]
 
-### **Módulo 1**
+### **4. Módulo 1**
