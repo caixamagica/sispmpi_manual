@@ -10,7 +10,7 @@
 
 [Cadastro de Usuários](https://github.com/thomazanderson/sispmpi_manual/blob/master/cadastros.md)
 
-[Entrada (login) no SISPMPI](https://github.com/thomazanderson/sispmpi_manual/blob/master/login.md)
+[Acesso ao SISPMPI (login)](https://github.com/thomazanderson/sispmpi_manual/blob/master/login.md)
 
 
 ### **Módulo 1**
