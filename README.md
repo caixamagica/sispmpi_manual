@@ -8,7 +8,7 @@
 
 [Descrição dos Módulos do SISPMPI](https://github.com/thomazanderson/sispmpi_manual/blob/master/modulos.md)
 
-#### **Preparando o SISPMPI para o órgão/entidade (exclusivo para Controladores Setoriais e Seccionais)** ###
+### **Preparando o SISPMPI para o órgão/entidade (exclusivo para Controladores Setoriais e Seccionais)** ###
 
 [Cadastro de Unidades Administrativas]
 
