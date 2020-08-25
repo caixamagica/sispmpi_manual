@@ -12,9 +12,9 @@
 
 [Acesso ao SISPMPI (login)](https://github.com/thomazanderson/sispmpi_manual/blob/master/login.md)
 
-[Alteração dos dados cadastrais, inclusive senha]
-
 [Senha esquecida]
+
+[Alteração dos dados cadastrais]
 
 
 ### **Módulo 1**
