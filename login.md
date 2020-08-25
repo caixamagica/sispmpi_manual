@@ -6,4 +6,5 @@ Ao acessar a página do sistema pela primeira vez, é necessário colocar o nome
 
 COLOCAR IMAGEM
 
-Caso não lembre a senha cadastrada, veja aqui o procedimento para sua alteração.
+- Caso deseje alterar a senha inicialmente cadastrada, veja aqui o procedimento para sua alteração:
+- Caso não lembre a senha cadastrada, veja aqui o procedimento para a recuperação de sua senha:
