@@ -8,13 +8,20 @@
 
 [Descrição dos Módulos do SISPMPI](https://github.com/thomazanderson/sispmpi_manual/blob/master/modulos.md)
 
+#### **Preparando o SISPMPI para o órgão/entidade (exclusivo para Controladores Setoriais e Seccionais)** ###
+
+[Cadastro de Unidades Administrativas]
+
 [Cadastro de Usuários](https://github.com/thomazanderson/sispmpi_manual/blob/master/cadastros.md)
+
+### **Acesso ao SISPMPI** ###
 
 [Acesso ao SISPMPI (login)](https://github.com/thomazanderson/sispmpi_manual/blob/master/login.md)
 
 [Senha esquecida]
 
-[Alteração dos dados cadastrais]
+[Tela inicial do SISPMPI]
 
+[Alteração dos dados cadastrais]
 
 ### **Módulo 1**
